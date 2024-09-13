@@ -1,2 +1,2 @@
-# precurseHenry
-Este es un repositorio de prueba del Precurse de Henry
+Mario Alberto
+Esta es una prueba de como crear un repositorio y clonarlo. 
